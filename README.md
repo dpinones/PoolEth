@@ -10,7 +10,7 @@ ETHPool provides a service where people can deposit ETH and they will receive we
     * The amount to stake must be greater than 0.
 
 * **Compound**
-    *If you have rewards, it is added to the current Staked balance.
+    * If you have rewards, it is added to the current Staked balance.
 
 * **Deposit**
     * Only the team can deposit.
